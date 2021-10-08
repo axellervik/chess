@@ -1,2 +1,2 @@
 # chess
-chess 2 electric boogaloo 🦀
+made a mess last time so let's try again
